@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuestionCatalogue>
+    <Question>
+        <task>Млечный путь - это...</task>
+        <answer1>Галактика</answer1>
+        <answer2>Скопление звезд</answer2>
+        <answer3>Парад планет</answer3>
+        <answer4>Солнечная система</answer4>
+        <rightAnswer>Галактика</rightAnswer>
+    </Question>
+    <Question>
+        <task>Как можно из Евразии пешком добраться в Северную Америку?</task>
+        <answer1>Через перешеек в Беринговом проливе</answer1>
+        <answer2>По льду из Чукотки на Аляску</answer2>
+        <answer3>Но новому Евро-Американскому мосту</answer3>
+        <answer4>Никак</answer4>
+        <rightAnswer>Никак</rightAnswer>
+    </Question>
+    <Question>
+        <task>Туфелька-Инфузория - это...</task>
+        <answer1>Бактерия</answer1>
+        <answer2>Вирус</answer2>
+        <answer3>Простейший, одноклеточный организм</answer3>
+        <answer4>Модная обувь</answer4>
+        <rightAnswer>Простейший, одноклеточный организм</rightAnswer>
+    </Question>
+    <Question>
+        <task>Царь Петр первый какой по счету из рода Романовых?</task>
+        <answer1>1-й</answer1>
+        <answer2>2-й</answer2>
+        <answer3>3-й</answer3>
+        <answer4>4-й</answer4>
+        <rightAnswer>3-й</rightAnswer>
+    </Question>
+</QuestionCatalogue>

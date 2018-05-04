@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuestionCatalogue>
+    <Question>
+        <task>How do you do?</task>
+        <answer1>Yogasana Vijnana: the Science of Yoga</answer1>
+        <answer2>Dhirendra Brahmachari</answer2>
+        <answer3>1966</answer3>
+        <answer4>81-40-34319-4</answer4>
+        <rightAnswer>1966</rightAnswer>
+    </Question>
+    <Question>
+        <task>How is she?</task>
+        <answer1>The First and Last Freedom</answer1>
+        <answer2>J. Krishnamurti</answer2>
+        <answer3>Yogasana Vijnana</answer3>
+        <answer4>0-06-064831-7</answer4>
+        <rightAnswer>1954</rightAnswer>
+    </Question>
+    <Question>
+        <task>Do you like banana?</task>
+        <answer1>The First</answer1>
+        <answer2>J. K</answer2>
+        <answer3>Yogasana </answer3>
+        <answer4>0-06-4</answer4>
+        <rightAnswer>The First</rightAnswer>
+    </Question>
+    <Question>
+        <task>Do you like big...?</task>
+        <answer1>Last Freedom</answer1>
+        <answer2>amurti</answer2>
+        <answer3>Vijnana</answer3>
+        <answer4>831-7</answer4>
+        <rightAnswer>831-7</rightAnswer>
+    </Question>
+</QuestionCatalogue>

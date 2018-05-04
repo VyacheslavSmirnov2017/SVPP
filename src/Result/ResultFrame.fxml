@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0"
+            xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Result.ResultController"
+            stylesheets="@../style.css" id="backgroundResult">
+   <children>
+      <TextField layoutX="214.0"  fx:id="idField"/>
+      <Label layoutX="20"  text="Введите номер зачётки" fx:id="enterNumberLabel"/>
+       <Label layoutX="150" fx:id="messageLabel" visible="false" id="messageLabel"  layoutY="380"/>
+      <Button layoutX="453.0"  mnemonicParsing="false" text="Найти" onAction="#find" fx:id="findButton"/>
+      <Button layoutX="40"  mnemonicParsing="false" onAction="#goToBack" text="Назад" fx:id="escapeButton"/>
+      <TableView layoutX="86.0"  prefHeight="200.0" prefWidth="440.0" fx:id="tableView">
+        <columns>
+          <TableColumn prefWidth="93.0" text="Шифр" fx:id="studentIdColumn"/>
+          <TableColumn prefWidth="97.0" text="Имя теста" fx:id="testNameColumn"/>
+          <TableColumn prefWidth="100.0" text="Результат" fx:id="resultColumn"/>
+          <TableColumn prefWidth="132.0" text="Дата" fx:id="dateColumn"/>
+        </columns>
+      </TableView>
+      <TextField layoutX="214.0"  fx:id="nameSurnameField" />
+      <Label layoutX="20"  text="ИмяФамилия" fx:id="nameSurnameLabel"/>
+   </children>
+</AnchorPane>
